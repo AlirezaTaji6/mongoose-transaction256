@@ -21,4 +21,6 @@ transaction(async session => {    // session is required parameter for this call
  .catch(console.log('fail'))
  
  ```
- 
+ you can use this for many other mongoose operation 
+ but
+ you should use **session** as a parameter

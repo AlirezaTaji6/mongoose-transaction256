@@ -18,9 +18,9 @@
   "author": "Alireza Taji",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlirezaTaji6/transaction-mongoose/issues"
+    "url": "https://github.com/AlirezaTaji6/mongoose-transaction256/issues"
   },
-  "homepage": "https://github.com/AlirezaTaji6/transaction-mongoose#readme",
+  "homepage": "https://github.com/AlirezaTaji6/mongoose-transaction256#readme",
   "dependencies": {
     "mongoose": "^5.10.2"
   },

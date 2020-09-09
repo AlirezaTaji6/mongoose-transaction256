@@ -1,0 +1,28 @@
+{
+  "name": "mongoose-transaction256",
+  "version": "1.0.1",
+  "description": "package for mongoose transaction (based on mongoose transaction)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlirezaTaji6/mongoose-transaction256.git"
+  },
+  "keywords": [
+    "mongoose",
+    "transaction",
+    "mongodb"
+  ],
+  "author": "Alireza Taji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlirezaTaji6/transaction-mongoose/issues"
+  },
+  "homepage": "https://github.com/AlirezaTaji6/transaction-mongoose#readme",
+  "dependencies": {
+    "mongoose": "^5.10.2"
+  },
+  "devDependencies": {}
+}

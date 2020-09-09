@@ -1,6 +1,6 @@
 {
   "name": "mongoose-transaction256",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "package for mongoose transaction (based on mongoose transaction)",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/AlirezaTaji6/mongoose-transaction256#readme",
   "dependencies": {
-    "mongoose": "^5.10.2"
-  },
-  "devDependencies": {}
+    "mongoose": "^5.10.3"
+  }
 }
